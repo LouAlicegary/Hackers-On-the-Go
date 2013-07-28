@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hackers On the Go</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Attendance</string>
+    <string name="title_section2">Messages</string>
+    <string name="title_section3">Something Else</string>
+    <string name="attendance_text_string"/>
+
+</resources>
