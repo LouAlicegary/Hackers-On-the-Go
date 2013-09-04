@@ -7,4 +7,4 @@ Because I’m a part of the research team and not in the IT department, I don’
 
 About 50 percent of the functionality has been implemented thus far...
 
-(All the goodies are in /src/com/alicegary
+(All the good stuff is in /src/com/alicegary/hackersonthego)
